@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5226092"
+    build_id: "5292324"
     target: "kernel_cfi"
     source_file: "sw49408.ko"
   }
   dest_file: "kcfi/sw49408.ko"
-  version: "Linux version 4.4.155-g7c022c6 (android-build@abfarm900) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Jan 11 21:31:16 UTC 2019"
+  version: "Linux version 4.4.155-g9db9532ae32d (android-build@wphl2.hot.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Feb 8 01:28:38 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
